@@ -69,9 +69,6 @@ return {
         "vue",
         "yaml",
       },
-      context_commentstring = {
-        enable = true,
-      },
       incremental_selection = {
         enable = true,
         keymaps = {
